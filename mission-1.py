@@ -5,7 +5,7 @@ from pyfiglet import Figlet
 # Affichage
 figlet = Figlet(font='standard')
 
-print(figlet.renderText("Python BruteForce Homemade"))
+print(figlet.renderText("Python BruteForce Homemade - Mission 1"))
 
 # Infos de la machine cible
 remoteHost="172.16.3.254"
