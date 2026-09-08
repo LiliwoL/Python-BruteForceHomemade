@@ -4,6 +4,12 @@
 
 Découverte du BruteForce.
 
-## Utilisation
+## Installation des dépendances
 
-Lancer le serveur SSH en Docker pour les tests.
+```bash
+# Avec apt
+apt install python3-paramiko
+
+# Avec pip
+pip3 install -r requirements.txt
+```

@@ -1,6 +1,6 @@
 
 # Ouvrir le fichier en lecture seule
-file = open("file.txt", "r")
+file = open("dictionnary.txt", "r")
 
 # Utiliser readlines pour lire les lignes du fichier
 # La variable "lignes" est une liste contenant toutes les lignes du fichier
